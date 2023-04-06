@@ -1,0 +1,7 @@
+pip install --upgrade azure-cognitiveservices-vision-face
+pip install azure-cognitiveservices-vision-computervision
+pip install azure-cognitiveservices-vision-customvision
+pip install azure-cognitiveservices-vision-formrecognizer
+pip install pillow 
+pip install pandas
+pip install opencv-python==4.5.4.60
